@@ -17,3 +17,9 @@ const bigNumber=37337373787384878497783n
 // array => object.
 // object => object.
 // function => function. // said as : (function object)
+let myObj = {
+        name: "hitesh",
+            age: 22,
+            }
+console.log(typeof myObj)
+console.log(typeof bigNumber);  //bigint
